@@ -1,4 +1,4 @@
-# This stub created by inc::latest 0.500
+# This stub created by inc::latest 0.4205
 package inc::latest;
 use strict;
 use vars '@ISA';
